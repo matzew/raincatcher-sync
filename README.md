@@ -1,4 +1,4 @@
-# FeedHenry WFM sync
+# FeedHenry WFM sync [![Build Status](https://travis-ci.org/feedhenry-raincatcher/raincatcher-sync.png)](https://travis-ci.org/feedhenry-raincatcher/raincatcher-sync)
 
 A sync module for FeedHenry WFM providing :
 - A Server-side sync module
